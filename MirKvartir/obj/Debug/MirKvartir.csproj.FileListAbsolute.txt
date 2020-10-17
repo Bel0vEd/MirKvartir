@@ -1,0 +1,30 @@
+C:\Users\1\source\repos\MirKvartir\MirKvartir\bin\Debug\MirKvartir.exe.config
+C:\Users\1\source\repos\MirKvartir\MirKvartir\bin\Debug\MirKvartir.exe
+C:\Users\1\source\repos\MirKvartir\MirKvartir\bin\Debug\MirKvartir.pdb
+C:\Users\1\source\repos\MirKvartir\MirKvartir\obj\Debug\MirKvartir.csprojResolveAssemblyReference.cache
+C:\Users\1\source\repos\MirKvartir\MirKvartir\obj\Debug\MirKvartir.Form1.resources
+C:\Users\1\source\repos\MirKvartir\MirKvartir\obj\Debug\MirKvartir.Properties.Resources.resources
+C:\Users\1\source\repos\MirKvartir\MirKvartir\obj\Debug\MirKvartir.csproj.GenerateResource.Cache
+C:\Users\1\source\repos\MirKvartir\MirKvartir\obj\Debug\MirKvartir.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\MirKvartir\MirKvartir\obj\Debug\MirKvartir.exe
+C:\Users\1\source\repos\MirKvartir\MirKvartir\obj\Debug\MirKvartir.pdb
+C:\Users\1\source\repos\MirKvartir\MirKvartir\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\source\repos\MirKvartir\MirKvartir\bin\Debug\Newtonsoft.Json.xml
+D:\Работы на заказ\Работы на заказ\МирКвартир\MirKvartir\obj\Debug\MirKvartir.csprojResolveAssemblyReference.cache
+D:\Работы на заказ\Работы на заказ\МирКвартир\MirKvartir\obj\Debug\MirKvartir.Form1.resources
+D:\Работы на заказ\Работы на заказ\МирКвартир\MirKvartir\obj\Debug\MirKvartir.Properties.Resources.resources
+D:\Работы на заказ\Работы на заказ\МирКвартир\MirKvartir\obj\Debug\MirKvartir.csproj.GenerateResource.Cache
+D:\Работы на заказ\Работы на заказ\МирКвартир\MirKvartir\obj\Debug\MirKvartir.csproj.CoreCompileInputs.cache
+D:\Работы на заказ\Работы на заказ\МирКвартир\MirKvartir\obj\Debug\MirKvartir.exe
+D:\Работы на заказ\Работы на заказ\МирКвартир\MirKvartir\obj\Debug\MirKvartir.pdb
+D:\Работы на заказ\Работы на заказ\МирКвартир\MirKvartir\bin\Debug\MirKvartir.exe.config
+D:\Работы на заказ\Работы на заказ\МирКвартир\MirKvartir\bin\Debug\MirKvartir.exe
+D:\Работы на заказ\Работы на заказ\МирКвартир\MirKvartir\bin\Debug\MirKvartir.pdb
+D:\Работы на заказ\Работы на заказ\МирКвартир\MirKvartir\bin\Debug\EPPlus.dll
+D:\Работы на заказ\Работы на заказ\МирКвартир\MirKvartir\bin\Debug\Newtonsoft.Json.dll
+D:\Работы на заказ\Работы на заказ\МирКвартир\MirKvartir\bin\Debug\EPPlus.xml
+D:\Работы на заказ\Работы на заказ\МирКвартир\MirKvartir\bin\Debug\Newtonsoft.Json.xml
+D:\Работы на заказ\Работы на заказ\МирКвартир\MirKvartir\obj\Debug\MirKvartir.Activate.resources
+C:\Users\1\source\repos\MirKvartir\MirKvartir\bin\Debug\EPPlus.dll
+C:\Users\1\source\repos\MirKvartir\MirKvartir\bin\Debug\EPPlus.xml
+C:\Users\1\source\repos\MirKvartir\MirKvartir\obj\Debug\MirKvartir.Activate.resources

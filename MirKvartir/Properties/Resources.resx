@@ -1,0 +1,2273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="descriptionOnes" xml:space="preserve">
+    <value>Срочно сдам квартиру в хорошем доме! Срок сдачи - от 1 месяца. В квартире есть все необходимое: микроволновка, холодильник, стиральная машина. Рассмотрю всех!
+
+Уютная квартира, с качественной мебелью и техникой. Кухня полностью укомплектована, есть вся техника. В ванной стиральная машина. Сдается на длительный срок порядочным платежеспособным людям. Посмотреть можно в любой день.
+
+Срочно сдам кварнтиру. на длительный срок. Все для комфортного проживания, кровать, шкаф, холодильник, микроволновка, плита, стиралка, посуда, телевизор. Хороший ремонт.
+
+Сдам квартиру. Есть мебель и техника, в том числе стиральная машина. Что не нужно, можно вывезти. Рассматриваю всех!
+
+Срочно сдам квартиру в хорошем районе! Развитая инфроструктура, есть все нужные магизины. Квартира полностью готова к заселению, срочно!</value>
+  </data>
+  <data name="descriptionRoom" xml:space="preserve">
+    <value>СРОЧНО! Сдаю комнату БЕЗ СОСЕДЕЙ, т.к. вторая комната закрыта под наши вещи, поскольку вещи девать некуда комната сдаваться не планируется минимум 5 лет! И сдавать будем по цене комнаты. Для проживания есть всё самое необходимое. Рассмотрим любые варианты. Агентам не беспокоить!
+
+Сдаю комнату БЕЗ СОСЕДЕЙ, т.к. вторая комната закрыта под хозяйские вещи. Для проживания есть всё самое необходимое. Рассмотрим любые варианты. Агентам не беспокоить!
+
+Сдаю комнату БЕЗ СОСЕДЕЙ, вторая комната закрыта под вещи. Для проживания есть всё необходимое. Рассмотрим ВСЕХ желающих. Агентам не беспокоить!
+
+Сдаю комнату БЕЗ СОСЕДЕЙ, т.к. вторая комната закрыта под хозяйские вещи. Для проживания есть всё самое необходимое. Рассмотрим любые варианты. Посмотреть можно в любое время. Агентам не беспокоить!
+
+Сдаю комнату БЕЗ СОСЕДЕЙ, т.к. вторая комната закрыта под хозяйские вещи. Для проживания есть всё самое необходимое. Рассмотрим любые варианты. Посмотреть можно по предварительной договорённости, а заселится сразу как понравится. Агентам не беспокоить!
+
+СРОЧНО! Сдаю комнату БЕЗ СОСЕДЕЙ, т.к. вторая комната закрыта под наши вещи, поскольку вещи девать не куда комната сдаваться не планируется минимум 5 лет! И сдавать будем по цене комнаты. Для проживания есть всё самое необходимое. Рассмотрим любые варианты. Посмотреть можно по предварительной договорённости, а заселится сразу как понравится. Агентам не беспокоить!
+
+СРОЧНО! Сдаю комнату БЕЗ СОСЕДЕЙ, т.к. вторая комната закрыта под наши вещи, поскольку вещи девать не куда комната сдаваться не планируется минимум 5 лет! Для проживания есть всё. Посмотреть можно в любое время. Рассмотрим ВСЕХ. Агентам не беспокоить!</value>
+  </data>
+  <data name="jsonText" xml:space="preserve">
+    <value>{
+  "estateId": "8f03b139-07b9-4a81-badb-159e0501f9c0",
+  "mainId": 0,
+  "created": "0001-01-01",
+  "updated": 0,
+  "rentPeriods": [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "в месяц",
+      "value": "Month"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "в день",
+      "value": "Day"
+    }
+  ],
+  "allEstateTypes": [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Квартиру",
+      "value": "Flat"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Квартиру в новостройке",
+      "value": "NewFlat"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Комнату",
+      "value": "Room"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Дом",
+      "value": "House"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Коттедж",
+      "value": "Cottage"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Дачу",
+      "value": "Village"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Таунхаус",
+      "value": "TownHouse"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Участок земли",
+      "value": "Land"
+    }
+  ],
+  "materials": [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Кирпич",
+      "value": "Кирпич"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Панель",
+      "value": "Панель"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Монолит",
+      "value": "Монолит"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Монолит-кирпич",
+      "value": "Монолит-кирпич"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Блок",
+      "value": "Блок"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Бетон",
+      "value": "Бетон"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Дерево",
+      "value": "Дерево"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Другое",
+      "value": "Другое"
+    }
+  ],
+  "renovations": [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Евроремонт",
+      "value": "Euro"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Дизайнерский ремонт",
+      "value": "Designer"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Без отделки",
+      "value": "WithoutFinishing"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Требует ремонта",
+      "value": "Needed"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Не требует ремонта",
+      "value": "NotNeeded"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Первичная отделка",
+      "value": "GeneralFinishing"
+    }
+  ],
+  "toiletTypes": [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "совмещенный",
+      "value": "Combined"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "раздельный",
+      "value": "Separated"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "2 и более",
+      "value": "Multiple"
+    }
+  ],
+  "parkings": [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Нет парковки",
+      "value": "No"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Подземная парковка",
+      "value": "Underground"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Охраняемая парковка",
+      "value": "SecuredParking"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Отдельная парковка",
+      "value": "SeparatedParking"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Парковка рядом",
+      "value": "Nearby"
+    }
+  ],
+  "regionsForLead": [
+    50
+  ],
+  "regionsForConsultation": [
+    50,
+    77
+  ],
+  "townsForLead": [
+    172664
+  ],
+  "regionsForGoodPhotosOffer": [
+    77,
+    50
+  ],
+  "listingType": "Rent",
+  "estateType": "Flat",
+  "rentPeriod": "Month",
+  "price": "11000",
+  "lat": 0,
+  "lng": 0,
+  "locationFromUrl": null,
+  "contractTypeViewModels": [
+    {
+      "text": "Прямая аренда",
+      "value": "DirectRent",
+      "allowedListingTypes": [
+        "Rent"
+      ],
+      "allowedEstateTypes": [
+        "Commercial"
+      ]
+    },
+    {
+      "text": "Субаренда",
+      "value": "SubRent",
+      "allowedListingTypes": [
+        "Rent"
+      ],
+      "allowedEstateTypes": [
+        "Commercial"
+      ]
+    },
+    {
+      "text": "Договор совместной деятельности",
+      "value": "JointActivityAgreement",
+      "allowedListingTypes": [
+        "Rent"
+      ],
+      "allowedEstateTypes": [
+        "Commercial"
+      ]
+    },
+    {
+      "text": "ППА",
+      "value": "RentRightsSale",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "Commercial"
+      ]
+    },
+    {
+      "text": "Продажа",
+      "value": "EstateSale",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "Commercial"
+      ]
+    },
+    {
+      "text": "Альтернатива",
+      "value": "Alternative",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "Flat",
+        "Room",
+        "ShareToFlat",
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Свободная продажа",
+      "value": "FreeEstateSale",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "Flat",
+        "Room",
+        "ShareToFlat",
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Договор инвестирования",
+      "value": "InvestmentContract",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Предварительный договор купли-продажи",
+      "value": "PreliminarySalesContract",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Договор ЖСК",
+      "value": "BuildingCooperativeContract",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Договор уступки прав требования",
+      "value": "CessionContract",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Договор долевого участия",
+      "value": "SharedConstruction",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "NewFlat"
+      ]
+    }
+  ],
+  "subway": null,
+  "highway": null,
+  "subwayTime": null,
+  "subwayDistanceType": "Go",
+  "subwayDistanceTypes": [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "пешком",
+      "value": "Go"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "транспортом",
+      "value": "Drive"
+    }
+  ],
+  "toMkad": null,
+  "prepaymentDays": 0,
+  "pledgeDays": null,
+  "clientFee": null,
+  "haggle": null,
+  "utilitiesIncludedInPrice": null,
+  "description": "",
+  "floors": null,
+  "material": null,
+  "roomCount": null,
+  "studio": false,
+  "openPlan": false,
+  "penthouse": false,
+  "apartment": false,
+  "area": null,
+  "areaRoom": null,
+  "buildingYear": null,
+  "balcony": null,
+  "toiletType": null,
+  "renovation": null,
+  "parking": null,
+  "conditioner": null,
+  "modernWindows": null,
+  "waterHeater": null,
+  "stationaryPhone": null,
+  "internet": null,
+  "roomFurniture": null,
+  "kitchenFurniture": null,
+  "television": null,
+  "washingMachine": null,
+  "dishWasher": null,
+  "refrigerator": null,
+  "withPets": null,
+  "withChildren": null,
+  "lift": null,
+  "freightLift": null,
+  "floor": null,
+  "buildingSeries": null,
+  "areaLive": null,
+  "areaKitchen": null,
+  "areaRooms": "",
+  "roomForSaleCount": null,
+  "lotSize": null,
+  "gasSupply": false,
+  "sewerageSupply": false,
+  "alarm": false,
+  "hasPhone": false,
+  "heatingSupply": false,
+  "waterSupply": false,
+  "electricitySupply": false,
+  "garage": false,
+  "photos": [],
+  "name": "Евгения Корепанова",
+  "phone": null,
+  "accountType": 1,
+  "leadRuHelpTypes": [],
+  "highlight": 0,
+  "locationFromUrlName": "",
+  "header": "Продажа квартиры",
+  "exportFields": [
+    "rentPeriod",
+    "price",
+    "lat",
+    "lng",
+    "location",
+    "subway",
+    "highway",
+    "subwayTime",
+    "subwayDistanceType",
+    "toMkad",
+    "estateType",
+    "listingType",
+    "contractType",
+    "prepaymentDays",
+    "pledgeDays",
+    "clientFee",
+    "haggle",
+    "utilitiesIncludedInPrice"
+  ],
+  "prepaymentDayss": [
+    {
+      "text": "Без предоплаты",
+      "value": 0
+    },
+    {
+      "text": "1 месяц",
+      "value": 30
+    },
+    {
+      "text": "2 месяца",
+      "value": 60
+    },
+    {
+      "text": "3 месяца",
+      "value": 90
+    }
+  ],
+  "pledgeDayss": [
+    {
+      "text": "Не выбрано"
+    },
+    {
+      "text": "Без залога",
+      "value": 0
+    },
+    {
+      "text": "2 недели",
+      "value": 14
+    },
+    {
+      "text": "1 месяц",
+      "value": 30
+    },
+    {
+      "text": "1.5 месяца",
+      "value": 45
+    },
+    {
+      "text": "2 месяца",
+      "value": 60
+    },
+    {
+      "text": "3 месяца",
+      "value": 90
+    }
+  ],
+  "contractTypes": [
+    {
+      "text": "Не выбрано"
+    }
+  ],
+  "estateTypeDropdownVisible": false,
+  "estateTypeName": "Квартиру",
+  "rentPeriodDropdownVisible": false,
+  "rentPeriodName": "в месяц",
+  "subwayDistanceTypeDropdownVisible": false,
+  "subwayDistanceTypeName": "пешком",
+  "prepaymentDaysDropdownVisible": false,
+  "prepaymentDaysName": "Без предоплаты",
+  "pledgeDaysDropdownVisible": false,
+  "pledgeDaysName": "Не выбрано",
+  "contractTypeDropdownVisible": false,
+  "contractTypeName": "Не выбрано",
+  "location": {
+    "label": "Москва, ул. Ленина, 12",
+    "cleanLabel": "Москва, ул. Ленина, 12",
+    "value": {
+      "SuggestItem": {
+        "LocationId": {
+          "LocalId": 3328216,
+          "MetaType": 11,
+          "Category": "MK_House"
+        },
+        "LocationType": 181,
+        "LocationFullName": "Москва, ул. Ленина, 12",
+        "LocationFullNameReversed": "12, ул. Ленина, Москва",
+        "IsLeaf": true,
+        "Weight": 0
+      },
+      "IsLeaf": true,
+      "Locations": [
+        {
+          "LocalId": 3328216,
+          "MetaType": 11,
+          "Category": "MK_House"
+        },
+        {
+          "LocalId": 759976,
+          "MetaType": 1,
+          "Category": "MK_Street"
+        },
+        {
+          "LocalId": 172664,
+          "MetaType": 4,
+          "Category": "MK_Town"
+        },
+        {
+          "LocalId": 77,
+          "MetaType": 5,
+          "Category": "MK_Region"
+        },
+        {
+          "LocalId": 1,
+          "MetaType": 0,
+          "Category": "MK_Country"
+        }
+      ]
+    }
+  },
+  "locationAuto": {
+    "label": "Москва, ул. Ленина, 12",
+    "cleanLabel": "Москва, ул. Ленина, 12",
+    "value": {
+      "SuggestItem": {
+        "LocationId": {
+          "LocalId": 3328216,
+          "MetaType": 11,
+          "Category": "MK_House"
+        },
+        "LocationType": 181,
+        "LocationFullName": "Москва, ул. Ленина, 12",
+        "LocationFullNameReversed": "12, ул. Ленина, Москва",
+        "IsLeaf": true,
+        "Weight": 0
+      },
+      "IsLeaf": true,
+      "Locations": [
+        {
+          "LocalId": 3328216,
+          "MetaType": 11,
+          "Category": "MK_House"
+        },
+        {
+          "LocalId": 759976,
+          "MetaType": 1,
+          "Category": "MK_Street"
+        },
+        {
+          "LocalId": 172664,
+          "MetaType": 4,
+          "Category": "MK_Town"
+        },
+        {
+          "LocalId": 77,
+          "MetaType": 5,
+          "Category": "MK_Region"
+        },
+        {
+          "LocalId": 1,
+          "MetaType": 0,
+          "Category": "MK_Country"
+        }
+      ]
+    }
+  },
+  "selectedLocation": {
+    "label": "Москва, ул. Ленина, 12",
+    "value": [
+      "MK_House|3328216",
+      "MK_Street|759976",
+      "MK_Town|172664",
+      "MK_Region|77",
+      "MK_Country|1"
+    ]
+  },
+  "house": 3328216,
+  "street": 759976,
+  "town": 172664,
+  "region": 77,
+  "flatEstateType": true,
+  "houseEstateType": false,
+  "landEstateType": false,
+  "moscowOrSpb": true,
+  "moscowOrSpbRegion": false,
+  "countryEstateType": false,
+  "showHighway": false,
+  "showToMkad": false,
+  "subwayImage": "moscow-subway",
+  "estateTypes": [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Квартиру",
+      "value": "Flat"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Квартиру в новостройке",
+      "value": "NewFlat"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Комнату",
+      "value": "Room"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Дом",
+      "value": "House"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Коттедж",
+      "value": "Cottage"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Дачу",
+      "value": "Village"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Таунхаус",
+      "value": "TownHouse"
+    }
+  ],
+  "placemarkMovedByUser": false,
+  "isLeafLocation": true
+}</value>
+  </data>
+  <data name="jsonText1" xml:space="preserve">
+    <value>{
+  "estateId": "b4f2b7ea-56f7-4ad7-a52d-785d629b2126",
+  "mainId": 0,
+  "created": "0001-01-01",
+  "updated": 0,
+  "rentPeriods": [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "в месяц",
+      "value": "Month"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "в день",
+      "value": "Day"
+    }
+  ],
+  "allEstateTypes": [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Квартиру",
+      "value": "Flat"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Квартиру в новостройке",
+      "value": "NewFlat"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Комнату",
+      "value": "Room"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Дом",
+      "value": "House"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Коттедж",
+      "value": "Cottage"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Дачу",
+      "value": "Village"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Таунхаус",
+      "value": "TownHouse"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Участок земли",
+      "value": "Land"
+    }
+  ],
+  "materials": [
+    {
+      "text": "Не выбрано"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Кирпич",
+      "value": "Кирпич"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Панель",
+      "value": "Панель"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Монолит",
+      "value": "Монолит"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Монолит-кирпич",
+      "value": "Монолит-кирпич"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Блок",
+      "value": "Блок"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Бетон",
+      "value": "Бетон"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Дерево",
+      "value": "Дерево"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Другое",
+      "value": "Другое"
+    }
+  ],
+  "renovations": [
+    {
+      "text": "Не выбрано"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Евроремонт",
+      "value": "Euro"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Дизайнерский ремонт",
+      "value": "Designer"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Без отделки",
+      "value": "WithoutFinishing"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Требует ремонта",
+      "value": "Needed"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Не требует ремонта",
+      "value": "NotNeeded"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Первичная отделка",
+      "value": "GeneralFinishing"
+    }
+  ],
+  "toiletTypes": [
+    {
+      "text": "Не выбрано"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "совмещенный",
+      "value": "Combined"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "раздельный",
+      "value": "Separated"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "2 и более",
+      "value": "Multiple"
+    }
+  ],
+  "parkings": [
+    {
+      "text": "Не выбрано"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Нет парковки",
+      "value": "No"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Подземная парковка",
+      "value": "Underground"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Охраняемая парковка",
+      "value": "SecuredParking"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Отдельная парковка",
+      "value": "SeparatedParking"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Парковка рядом",
+      "value": "Nearby"
+    }
+  ],
+  "regionsForLead": [
+    50
+  ],
+  "regionsForConsultation": [
+    50,
+    77
+  ],
+  "townsForLead": [
+    172664
+  ],
+  "regionsForGoodPhotosOffer": [
+    77,
+    50
+  ],
+  "listingType": "Rent",
+  "estateType": "Flat",
+  "rentPeriod": "Month",
+  "price": "15000",
+  "lat": 0,
+  "lng": 0,
+  "locationFromUrl": null,
+  "contractTypeViewModels": [
+    {
+      "text": "Прямая аренда",
+      "value": "DirectRent",
+      "allowedListingTypes": [
+        "Rent"
+      ],
+      "allowedEstateTypes": [
+        "Commercial"
+      ]
+    },
+    {
+      "text": "Субаренда",
+      "value": "SubRent",
+      "allowedListingTypes": [
+        "Rent"
+      ],
+      "allowedEstateTypes": [
+        "Commercial"
+      ]
+    },
+    {
+      "text": "Договор совместной деятельности",
+      "value": "JointActivityAgreement",
+      "allowedListingTypes": [
+        "Rent"
+      ],
+      "allowedEstateTypes": [
+        "Commercial"
+      ]
+    },
+    {
+      "text": "ППА",
+      "value": "RentRightsSale",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "Commercial"
+      ]
+    },
+    {
+      "text": "Продажа",
+      "value": "EstateSale",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "Commercial"
+      ]
+    },
+    {
+      "text": "Альтернатива",
+      "value": "Alternative",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "Flat",
+        "Room",
+        "ShareToFlat",
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Свободная продажа",
+      "value": "FreeEstateSale",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "Flat",
+        "Room",
+        "ShareToFlat",
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Договор инвестирования",
+      "value": "InvestmentContract",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Предварительный договор купли-продажи",
+      "value": "PreliminarySalesContract",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Договор ЖСК",
+      "value": "BuildingCooperativeContract",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Договор уступки прав требования",
+      "value": "CessionContract",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Договор долевого участия",
+      "value": "SharedConstruction",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "NewFlat"
+      ]
+    }
+  ],
+  "subway": null,
+  "highway": null,
+  "subwayTime": null,
+  "subwayDistanceType": "Go",
+  "subwayDistanceTypes": [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "пешком",
+      "value": "Go"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "транспортом",
+      "value": "Drive"
+    }
+  ],
+  "toMkad": null,
+  "prepaymentDays": 0,
+  "pledgeDays": null,
+  "clientFee": null,
+  "haggle": null,
+  "utilitiesIncludedInPrice": null,
+  "contractType": null,
+  "description": "вырпларфлоарфвыгашфвнырагфвырафвыгнарвыф",
+  "floors": 5,
+  "material": "Панель",
+  "roomCount": 7,
+  "studio": false,
+  "openPlan": false,
+  "penthouse": false,
+  "apartment": false,
+  "area": "99",
+  "areaRoom": null,
+  "buildingYear": null,
+  "balcony": null,
+  "renovation": null,
+  "parking": null,
+  "conditioner": null,
+  "modernWindows": null,
+  "waterHeater": null,
+  "stationaryPhone": null,
+  "internet": true,
+  "roomFurniture": true,
+  "kitchenFurniture": true,
+  "television": true,
+  "washingMachine": true,
+  "dishWasher": null,
+  "refrigerator": true,
+  "withPets": true,
+  "withChildren": true,
+  "lift": null,
+  "freightLift": null,
+  "floor": "7",
+  "buildingSeries": null,
+  "areaLive": null,
+  "areaKitchen": null,
+  "areaRooms": "",
+  "roomForSaleCount": null,
+  "lotSize": null,
+  "gasSupply": false,
+  "sewerageSupply": false,
+  "alarm": false,
+  "hasPhone": false,
+  "heatingSupply": false,
+  "waterSupply": false,
+  "electricitySupply": false,
+  "garage": false,
+  "photos": [
+    {
+      "guid": "",
+      "domainNumber": 6,
+      "fileSize": 0,
+      "isDeleted": false,
+      "typeName": "",
+      "angle": 0,
+      "isLoad": true
+    }
+  ],
+  "name": "Евгения Корепанова",
+  "phone": null,
+  "accountType": 1,
+  "leadRuHelpTypes": [],
+  "highlight": 0,
+  "locationFromUrlName": null,
+  "header": "Продажа квартиры",
+  "roomDescription": "7",
+  "roomDescriptions": [
+    {
+      "text": "Не выбрано"
+    },
+    {
+      "text": "1",
+      "value": "1"
+    },
+    {
+      "text": "2",
+      "value": "2"
+    },
+    {
+      "text": "3",
+      "value": "3"
+    },
+    {
+      "text": "4",
+      "value": "4"
+    },
+    {
+      "text": "5",
+      "value": "5"
+    },
+    {
+      "text": "6",
+      "value": "6"
+    },
+    {
+      "text": "7",
+      "value": "7"
+    },
+    {
+      "text": "8",
+      "value": "8"
+    },
+    {
+      "text": "9",
+      "value": "9"
+    },
+    {
+      "text": "10 и более",
+      "value": "10"
+    },
+    {
+      "text": "Студия",
+      "value": "Студия"
+    }
+  ],
+  "floorss": [
+    {
+      "text": "Не выбрано"
+    },
+    {
+      "text": "1",
+      "value": 1
+    },
+    {
+      "text": "2",
+      "value": 2
+    },
+    {
+      "text": "3",
+      "value": 3
+    },
+    {
+      "text": "4",
+      "value": 4
+    },
+    {
+      "text": "5",
+      "value": 5
+    }
+  ],
+  "liftStatus": null,
+  "materialDropdownVisible": false,
+  "materialName": "Панель",
+  "roomDescriptionDropdownVisible": false,
+  "roomDescriptionName": "7",
+  "toiletTypeDropdownVisible": false,
+  "toiletTypeName": "Не выбрано",
+  "renovationDropdownVisible": false,
+  "renovationName": "Не выбрано",
+  "floorsDropdownVisible": false,
+  "floorsName": "5",
+  "parkingDropdownVisible": false,
+  "parkingName": "Не выбрано",
+  "location": {
+    "label": "Ижевск, ул. Ленина, 12",
+    "cleanLabel": "Ижевск, ул. Ленина, 12",
+    "value": {
+      "SuggestItem": {
+        "LocationId": {
+          "LocalId": 1951362,
+          "MetaType": 11,
+          "Category": "MK_House"
+        },
+        "LocationType": 181,
+        "LocationFullName": "Ижевск, ул. Ленина, 12",
+        "LocationFullNameReversed": "12, ул. Ленина, Ижевск",
+        "IsLeaf": true,
+        "Weight": 0
+      },
+      "IsLeaf": true,
+      "Locations": [
+        {
+          "LocalId": 1951362,
+          "MetaType": 11,
+          "Category": "MK_House"
+        },
+        {
+          "LocalId": 114618,
+          "MetaType": 1,
+          "Category": "MK_Street"
+        },
+        {
+          "LocalId": 19918,
+          "MetaType": 4,
+          "Category": "MK_Town"
+        },
+        {
+          "LocalId": 18,
+          "MetaType": 5,
+          "Category": "MK_Region"
+        },
+        {
+          "LocalId": 1,
+          "MetaType": 0,
+          "Category": "MK_Country"
+        }
+      ]
+    }
+  },
+  "locationAuto": {
+    "label": "Ижевск, ул. Ленина, 12",
+    "cleanLabel": "Ижевск, ул. Ленина, 12",
+    "value": {
+      "SuggestItem": {
+        "LocationId": {
+          "LocalId": 1951362,
+          "MetaType": 11,
+          "Category": "MK_House"
+        },
+        "LocationType": 181,
+        "LocationFullName": "Ижевск, ул. Ленина, 12",
+        "LocationFullNameReversed": "12, ул. Ленина, Ижевск",
+        "IsLeaf": true,
+        "Weight": 0
+      },
+      "IsLeaf": true,
+      "Locations": [
+        {
+          "LocalId": 1951362,
+          "MetaType": 11,
+          "Category": "MK_House"
+        },
+        {
+          "LocalId": 114618,
+          "MetaType": 1,
+          "Category": "MK_Street"
+        },
+        {
+          "LocalId": 19918,
+          "MetaType": 4,
+          "Category": "MK_Town"
+        },
+        {
+          "LocalId": 18,
+          "MetaType": 5,
+          "Category": "MK_Region"
+        },
+        {
+          "LocalId": 1,
+          "MetaType": 0,
+          "Category": "MK_Country"
+        }
+      ]
+    }
+  },
+  "selectedLocation": {
+    "label": "Ижевск, ул. Ленина, 12",
+    "value": [
+      "MK_House|1951362",
+      "MK_Street|114618",
+      "MK_Town|19918",
+      "MK_Region|18",
+      "MK_Country|1"
+    ]
+  },
+  "house": 1951362,
+  "street": 114618,
+  "town": 19918,
+  "region": 18,
+  "flatEstateType": true,
+  "houseEstateType": false,
+  "landEstateType": false,
+  "notDeletedPhotoCount": 1,
+  "showAreaRooms": true,
+  "roomsLabel": "Число комнат",
+  "landAreaLabel": "Площадь участка:",
+  "newHouseInfoReceived": false,
+  "floorsInfoExists": true,
+  "houseYearAndModelInfoExists": false,
+  "liftInfoExists": true,
+  "materialInfoExists": true,
+  "houseInfoVisible": true
+}</value>
+  </data>
+  <data name="jsonText2" xml:space="preserve">
+    <value>{
+  "estateId": "ed842ddb-b9fe-4668-8372-9db983bf60bc",
+  "mainId": 0,
+  "created": "0001-01-01",
+  "updated": 0,
+  "rentPeriods": [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "в месяц",
+      "value": "Month"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "в день",
+      "value": "Day"
+    }
+  ],
+  "allEstateTypes": [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Квартиру",
+      "value": "Flat"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Квартиру в новостройке",
+      "value": "NewFlat"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Комнату",
+      "value": "Room"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Дом",
+      "value": "House"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Коттедж",
+      "value": "Cottage"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Дачу",
+      "value": "Village"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Таунхаус",
+      "value": "TownHouse"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Участок земли",
+      "value": "Land"
+    }
+  ],
+  "materials": [
+    {
+      "text": "Не выбрано"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Кирпич",
+      "value": "Кирпич"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Панель",
+      "value": "Панель"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Монолит",
+      "value": "Монолит"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Монолит-кирпич",
+      "value": "Монолит-кирпич"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Блок",
+      "value": "Блок"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Бетон",
+      "value": "Бетон"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Дерево",
+      "value": "Дерево"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Другое",
+      "value": "Другое"
+    }
+  ],
+  "renovations": [
+    {
+      "text": "Не выбрано"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Евроремонт",
+      "value": "Euro"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Дизайнерский ремонт",
+      "value": "Designer"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Без отделки",
+      "value": "WithoutFinishing"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Требует ремонта",
+      "value": "Needed"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Не требует ремонта",
+      "value": "NotNeeded"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Первичная отделка",
+      "value": "GeneralFinishing"
+    }
+  ],
+  "toiletTypes": [
+    {
+      "text": "Не выбрано"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "совмещенный",
+      "value": "Combined"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "раздельный",
+      "value": "Separated"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "2 и более",
+      "value": "Multiple"
+    }
+  ],
+  "parkings": [
+    {
+      "text": "Не выбрано"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Нет парковки",
+      "value": "No"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Подземная парковка",
+      "value": "Underground"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Охраняемая парковка",
+      "value": "SecuredParking"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Отдельная парковка",
+      "value": "SeparatedParking"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Парковка рядом",
+      "value": "Nearby"
+    }
+  ],
+  "regionsForLead": [
+    50
+  ],
+  "regionsForConsultation": [
+    50,
+    77
+  ],
+  "townsForLead": [
+    172664
+  ],
+  "regionsForGoodPhotosOffer": [
+    77,
+    50
+  ],
+  "listingType": "Rent",
+  "estateType": "Room",
+  "rentPeriod": "Month",
+  "price": "6000",
+  "lat": 0,
+  "lng": 0,
+  "locationFromUrl": null,
+  "contractTypeViewModels": [
+    {
+      "text": "Прямая аренда",
+      "value": "DirectRent",
+      "allowedListingTypes": [
+        "Rent"
+      ],
+      "allowedEstateTypes": [
+        "Commercial"
+      ]
+    },
+    {
+      "text": "Субаренда",
+      "value": "SubRent",
+      "allowedListingTypes": [
+        "Rent"
+      ],
+      "allowedEstateTypes": [
+        "Commercial"
+      ]
+    },
+    {
+      "text": "Договор совместной деятельности",
+      "value": "JointActivityAgreement",
+      "allowedListingTypes": [
+        "Rent"
+      ],
+      "allowedEstateTypes": [
+        "Commercial"
+      ]
+    },
+    {
+      "text": "ППА",
+      "value": "RentRightsSale",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "Commercial"
+      ]
+    },
+    {
+      "text": "Продажа",
+      "value": "EstateSale",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "Commercial"
+      ]
+    },
+    {
+      "text": "Альтернатива",
+      "value": "Alternative",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "Flat",
+        "Room",
+        "ShareToFlat",
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Свободная продажа",
+      "value": "FreeEstateSale",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "Flat",
+        "Room",
+        "ShareToFlat",
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Договор инвестирования",
+      "value": "InvestmentContract",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Предварительный договор купли-продажи",
+      "value": "PreliminarySalesContract",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Договор ЖСК",
+      "value": "BuildingCooperativeContract",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Договор уступки прав требования",
+      "value": "CessionContract",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "NewFlat"
+      ]
+    },
+    {
+      "text": "Договор долевого участия",
+      "value": "SharedConstruction",
+      "allowedListingTypes": [
+        "Sale"
+      ],
+      "allowedEstateTypes": [
+        "NewFlat"
+      ]
+    }
+  ],
+  "subway": null,
+  "highway": null,
+  "subwayTime": null,
+  "subwayDistanceType": "Go",
+  "subwayDistanceTypes": [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "пешком",
+      "value": "Go"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "транспортом",
+      "value": "Drive"
+    }
+  ],
+  "toMkad": null,
+  "prepaymentDays": 0,
+  "pledgeDays": null,
+  "clientFee": null,
+  "haggle": null,
+  "utilitiesIncludedInPrice": null,
+  "contractType": null,
+  "description": "",
+  "floors": 5,
+  "material": "Панель",
+  "roomCount": 2,
+  "studio": false,
+  "openPlan": false,
+  "penthouse": false,
+  "apartment": false,
+  "area": null,
+  "areaRoom": "24",
+  "buildingYear": null,
+  "balcony": null,
+  "toiletType": null,
+  "renovation": null,
+  "parking": null,
+  "conditioner": null,
+  "modernWindows": null,
+  "waterHeater": null,
+  "stationaryPhone": null,
+  "internet": null,
+  "roomFurniture": null,
+  "kitchenFurniture": null,
+  "television": null,
+  "washingMachine": null,
+  "dishWasher": null,
+  "refrigerator": null,
+  "withPets": null,
+  "withChildren": null,
+  "lift": null,
+  "freightLift": null,
+  "floor": "4",
+  "buildingSeries": null,
+  "areaLive": null,
+  "areaKitchen": null,
+  "areaRooms": "",
+  "roomForSaleCount": null,
+  "lotSize": null,
+  "gasSupply": false,
+  "sewerageSupply": false,
+  "alarm": false,
+  "hasPhone": false,
+  "heatingSupply": false,
+  "waterSupply": false,
+  "electricitySupply": false,
+  "garage": false,
+  "photos": [
+    {
+      "guid": "83b7c696-9c12-4eb2-a4db-c4c87b99bc13",
+      "domainNumber": 4,
+      "fileSize": 747696,
+      "isDeleted": false,
+      "typeName": "",
+      "angle": 0,
+      "isLoad": true
+    }
+  ],
+  "name": "Евгения Корепанова",
+  "phone": null,
+  "accountType": 1,
+  "leadRuHelpTypes": [],
+  "highlight": 0,
+  "locationFromUrlName": null,
+  "header": "Продажа квартиры",
+  "roomDescription": "2",
+  "roomDescriptions": [
+    {
+      "text": "Не выбрано"
+    },
+    {
+      "text": "1",
+      "value": "1"
+    },
+    {
+      "text": "2",
+      "value": "2"
+    },
+    {
+      "text": "3",
+      "value": "3"
+    },
+    {
+      "text": "4",
+      "value": "4"
+    },
+    {
+      "text": "5",
+      "value": "5"
+    },
+    {
+      "text": "6",
+      "value": "6"
+    },
+    {
+      "text": "7",
+      "value": "7"
+    },
+    {
+      "text": "8",
+      "value": "8"
+    },
+    {
+      "text": "9",
+      "value": "9"
+    },
+    {
+      "text": "10 и более",
+      "value": "10"
+    },
+    {
+      "text": "Студия",
+      "value": "Студия"
+    }
+  ],
+  "floorss": [
+    {
+      "text": "Не выбрано"
+    },
+    {
+      "text": "1",
+      "value": 1
+    },
+    {
+      "text": "2",
+      "value": 2
+    },
+    {
+      "text": "3",
+      "value": 3
+    },
+    {
+      "text": "4",
+      "value": 4
+    },
+    {
+      "text": "5",
+      "value": 5
+    }
+  ],
+  "liftStatus": null,
+  "materialDropdownVisible": false,
+  "materialName": "Панель",
+  "roomDescriptionDropdownVisible": false,
+  "roomDescriptionName": "2",
+  "toiletTypeDropdownVisible": false,
+  "toiletTypeName": "Не выбрано",
+  "renovationDropdownVisible": false,
+  "renovationName": "Не выбрано",
+  "floorsDropdownVisible": false,
+  "floorsName": "5",
+  "parkingDropdownVisible": false,
+  "parkingName": "Не выбрано",
+  "location": {
+    "label": "Ижевск, ул. Ленина, 12",
+    "cleanLabel": "Ижевск, ул. Ленина, 12",
+    "value": {
+      "SuggestItem": {
+        "LocationId": {
+          "LocalId": 1951362,
+          "MetaType": 11,
+          "Category": "MK_House"
+        },
+        "LocationType": 181,
+        "LocationFullName": "Ижевск, ул. Ленина, 12",
+        "LocationFullNameReversed": "12, ул. Ленина, Ижевск",
+        "IsLeaf": true,
+        "Weight": 0
+      },
+      "IsLeaf": true,
+      "Locations": [
+        {
+          "LocalId": 1951362,
+          "MetaType": 11,
+          "Category": "MK_House"
+        },
+        {
+          "LocalId": 114618,
+          "MetaType": 1,
+          "Category": "MK_Street"
+        },
+        {
+          "LocalId": 19918,
+          "MetaType": 4,
+          "Category": "MK_Town"
+        },
+        {
+          "LocalId": 18,
+          "MetaType": 5,
+          "Category": "MK_Region"
+        },
+        {
+          "LocalId": 1,
+          "MetaType": 0,
+          "Category": "MK_Country"
+        }
+      ]
+    }
+  },
+  "locationAuto": {
+    "label": "Ижевск, ул. Ленина, 12",
+    "cleanLabel": "Ижевск, ул. Ленина, 12",
+    "value": {
+      "SuggestItem": {
+        "LocationId": {
+          "LocalId": 1951362,
+          "MetaType": 11,
+          "Category": "MK_House"
+        },
+        "LocationType": 181,
+        "LocationFullName": "Ижевск, ул. Ленина, 12",
+        "LocationFullNameReversed": "12, ул. Ленина, Ижевск",
+        "IsLeaf": true,
+        "Weight": 0
+      },
+      "IsLeaf": true,
+      "Locations": [
+        {
+          "LocalId": 1951362,
+          "MetaType": 11,
+          "Category": "MK_House"
+        },
+        {
+          "LocalId": 114618,
+          "MetaType": 1,
+          "Category": "MK_Street"
+        },
+        {
+          "LocalId": 19918,
+          "MetaType": 4,
+          "Category": "MK_Town"
+        },
+        {
+          "LocalId": 18,
+          "MetaType": 5,
+          "Category": "MK_Region"
+        },
+        {
+          "LocalId": 1,
+          "MetaType": 0,
+          "Category": "MK_Country"
+        }
+      ]
+    }
+  },
+  "selectedLocation": {
+    "label": "Ижевск, ул. Ленина, 12",
+    "value": [
+      "MK_House|1951362",
+      "MK_Street|114618",
+      "MK_Town|19918",
+      "MK_Region|18",
+      "MK_Country|1"
+    ]
+  },
+  "house": 1951362,
+  "street": 114618,
+  "town": 19918,
+  "region": 18,
+  "flatEstateType": true,
+  "houseEstateType": false,
+  "landEstateType": false,
+  "notDeletedPhotoCount": 1,
+  "showAreaRooms": false,
+  "roomsLabel": "Всего комнат",
+  "landAreaLabel": "Площадь участка:",
+  "newHouseInfoReceived": false,
+  "floorsInfoExists": true,
+  "houseYearAndModelInfoExists": false,
+  "liftInfoExists": true,
+  "materialInfoExists": true,
+  "houseInfoVisible": true
+}</value>
+  </data>
+</root>
